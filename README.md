@@ -1,39 +1,11 @@
+# Amazon Tracker
+> Another Amazon price tracker
 
-# Express API template
-> A basic template for an Express API
-
-## 🔧 Installation
-
-Clone the repository
-```
-$ git clone https://github.com/LucasCtrl/express-api-template
-```
-
-Install all the dependencies
-```
-$ yarn install
-```
-
-## 📖 Usage
-
-Start a dev server with nodemon for hot reload when you make some changes
-```
-$ yarn dev
-```
-
-Start the server in production mode
-```
-$ yarn start
-```
-
-Lint your code
-```
-$ yarn lint
-```
+**Disclaimer:** This is the backend part. You can use this part as standalone project but it's recommended to use the frontend app too.
 
 ## 🤝 Contributing
 
-1. Fork it (https://github.com/LucasCtrl/express-api-template/fork)
+1. Fork it (https://github.com/LucasCtrl/amz-tracker-backend/fork)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
